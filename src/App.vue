@@ -4,7 +4,7 @@
     <div v-if="gameState === 'login'" class="screen login-screen">
       <h1 class="title">CHAIN HOOK</h1>
       <h2 class="subtitle-game">Tame the Glitch</h2>
-      <p class="instruction">Connetti il wallet per stabilizzare il sistema</p>
+      <p class="instruction">Connect your wallet to stabilize the system</p>
       <button @click="connectWallet" class="btn-pixel">
         🦊 CONNECT PROTOCOL
       </button>
