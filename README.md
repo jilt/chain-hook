@@ -3,6 +3,7 @@
 
 **Chain Hook** is a Web3 pixel-art platformer where each "monster" represents a critical state of a Uniswap v4 Liquidity Pool. By leveraging the player's **NFT metadata**, the game identifies the user's LP position and allows them to "tame" market inefficiencies by triggering specific **Uniswap Hooks**.
 
+[playable demo](https://chain-hook.vercel.app/)
 ---
 
 ## 👾 The Glitch Bestiary (The Hooks)
